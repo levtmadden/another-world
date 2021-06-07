@@ -3,4 +3,5 @@ module.exports = {
     title: "Another world",
   },
   plugins: ["gatsby-plugin-gatsby-cloud"],
+  pathPrefix: "/another-world",
 };
